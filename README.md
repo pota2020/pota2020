@@ -2,7 +2,7 @@
 
 Tech stack: C#, F# and TypeScript　　
 
-Only private source code created mainly outside of work is posted　　
+Only private source code created mainly outside of work is posted.　　
 
 <!--
 **pota2020/pota2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
