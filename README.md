@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. I`m Yohei 👋
+
+Tech stack: C#, F# and TypeScript
 
 <!--
 **pota2020/pota2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
